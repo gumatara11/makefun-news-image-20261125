@@ -9,3 +9,5 @@ One image summing up the world's news of Wednesday 25 November 2026, as a newspa
 Design: masthead "Wednesday 25 November 2026", a stat strip (26 miners trapped in West Java, ~30 hostages freed in Cartagena, Nvidia −7%, Bangladesh garment wage +36%, Ukraine needs €115bn, Real Madrid 5–1 PSV), a region bar across 7 regions, three big illustrated leads — the flooded gold mine in West Java, the Cartagena supermarket hostage rescue, and Nvidia's 7% slide — ten more illustrated stories (China's first foreign astronaut, the Bangladesh wage rise, North Korea expelling the Swiss diplomat, the UK sabotage warning, the Hodeidah strikes, the Mississippi plane crash, Senegal's AFCON title back, Huawei found guilty), a dotted world map with numbered pins, and thirty one-liners, from the Houthi advance on Aden to the COP31 collapse. The pictures are drawn illustrations of reported events, never photographs; all text is set in code.
 
 Run: `MAKEFUN_OUTPUT_DIR=out python3 main.py` writes `out/entry.png`.
+
+Entries close 27 November 2026 at 07:00 WIB; the 50 best-ranked images share $100 ($20 for 1st place).
